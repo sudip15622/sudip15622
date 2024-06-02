@@ -3,7 +3,6 @@
     <img align="center" src="banner.gif">
 </div>
 
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true&random=false&width=435&lines=Hello+World!;I+am+Sudip+Lamichhane)](https://git.io/typing-svg)
 
 **Greetings, Earthlings! I go by the name Sudip Lamichhane.
