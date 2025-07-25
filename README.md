@@ -4,9 +4,13 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=500&vCenter=true&random=false&width=435&lines=Hello+World!;I+am+Sudip+Lamichhane)](https://git.io/typing-svg)
 
-**Greetings, Earthlings! I go by the name Sudip Lamichhane.
-<br>
-I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.**
+### 👋 Greetings, Earthlings!
+
+I'm **Sudip Lamichhane**, a passionate **full-stack developer** from Nepal 🇳🇵, currently pursuing a **Bachelor's in Computer Applications (BCA)** at **Birendra Multiple Campus, Tribhuvan University**.
+
+I specialize in building **clean, modern, and scalable web applications** using technologies like **Next.js, Node.js, TypeScript, MongoDB**, and more. I'm always learning and experimenting with new tools to sharpen my craft.
+
+Let’s build something awesome!
 
 <!--END_SECTION:mrepol742-->
 
