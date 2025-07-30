@@ -61,7 +61,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudip15622&show_icons=true&theme=react&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip15622&theme=react&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sudip15622&theme=react&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
 ---
