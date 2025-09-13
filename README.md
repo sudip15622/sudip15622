@@ -14,7 +14,7 @@
 
 - 🧑‍💻 Full-stack developer passionate about building modern, clean, and scalable web apps.
 - 🎓 Currently pursuing **BCA** at **Birendra Multiple Campus**, TU.
-- 🛠️ Tech Stack: **React, Next.js, TypeScript, Node.js, NestJS, MongoDB, PostgreSQL TailwindCSS, and more.**
+- 🛠️ Tech Stack: **React, Next.js, TypeScript, Node.js, NestJS, MongoDB, PostgreSQL, TailwindCSS, and more.**
 - 🌱 Always learning and exploring new tools & frameworks.
 - 🌐 Let’s build something amazing together!
 
